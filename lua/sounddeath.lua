@@ -1,5 +1,5 @@
 local function killplayer( ent )
-	ent:EmitSound( "garrysmod/save_load" .. math.random( 10 ) .. ".wav" )
+	ent:EmitSound('garrysmod/save_load' .. math.random( 10 ) .. '.wav')
 	
 	
 	
